@@ -7,3 +7,5 @@ foram idealizadas as seguintes classes:
 * Pessoa: Uma classe modelo para as classes *Usuario* e *Bibliotecario*.
 * Usuario: A classe que representa os usuários.
 * Bibliotecario: O funcionário que gerencia a biblioteca.
+* Biblioteca: A classe que representa a biblioteca em si.
+* BancoJson: Uma classe que gerencia o armazenamento do sistema.
